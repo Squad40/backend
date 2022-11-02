@@ -3,5 +3,5 @@ const express = require('express');
 const app = express();
 
 app.listen(8080, () => {
-  console.log('Olá Mundo!');
+  console.log('Olá Squad 40!');
 });
